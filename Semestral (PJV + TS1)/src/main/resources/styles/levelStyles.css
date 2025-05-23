@@ -1,0 +1,35 @@
+.level-pane {
+    -fx-padding: 20px;
+    -fx-background-image: url("../images/Scenes/levelSelect.png");
+}
+
+.button {
+    -fx-background-color: #4CAF50;
+    -fx-text-fill: white;
+    -fx-font-size: 16px;
+    -fx-padding: 10px 20px;
+    -fx-border-radius: 8px;
+    -fx-background-radius: 8px;
+    -fx-font-weight: bold;
+    -fx-min-width: 150px;
+}
+
+.button:hover {
+    -fx-background-color: #45a049;
+}
+
+.button:pressed {
+    -fx-background-color: #3e8e41;
+}
+
+.button.level2 {
+    -fx-background-color: #008CBA;
+}
+
+.button.level2:hover {
+    -fx-background-color: #007B9E;
+}
+
+.button.level2:pressed {
+    -fx-background-color: #00677B;
+}
