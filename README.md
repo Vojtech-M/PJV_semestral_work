@@ -1,6 +1,6 @@
 ## 👾 Semestrální práce PJV
 
-![Front page Gitlab](https://gitlab.fel.cvut.cz/B242_B0B36PJV/michavo5/-/raw/main/Semestral%20(PJV%20+%20TS1)/src/main/resources/images/Scenes/Gitlab_readme_image.png)
+![Front page Gitlab](https://github.com/Vojtech-M/PJV_semestral_work/blob/main/Semestral%20(PJV%20%2B%20TS1)/src/main/resources/images/Scenes/Gitlab_readme_image.png)
 
 Tento repozitář obsahuje Semestrální práci do předmětu PJV na ČVUT FEL. Také se zde nachází jedna složka "cviceni", která obsahuje moji práci na úkolech a cvičeních. Kód projektu se nachází ve složce **Semestral**
 
